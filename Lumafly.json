@@ -1,0 +1,16 @@
+{
+  "name": "Improved Hollow Knight",
+  "unique_name": "ImprovedHollowKnight",
+  "author": "YourName",
+  "version": "1.0.0",
+  "description": "Улучшает Hollow Knight: режимы боя (пули в стиле Cuphead), древо навыков, парирование, пикировка, скольжение, мини-карта, локатор боссов и многое другое.",
+  "repo": "https://github.com/YOUR_USERNAME/ImprovedHollowKnight",
+  "dependencies": [
+    "Modding API"
+  ],
+  "tags": [
+    "gameplay",
+    "combat",
+    "progression"
+  ]
+}
